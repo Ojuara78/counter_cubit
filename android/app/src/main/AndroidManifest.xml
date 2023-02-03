@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.my_counter_cubit">
+    package="com.example.counter_cubit">
    <application
-        android:label="my_counter_cubit"
+        android:label="counter_cubit"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(my_counter_cubit LANGUAGES CXX)
+project(counter_cubit LANGUAGES CXX)
 
-set(BINARY_NAME "my_counter_cubit")
+set(BINARY_NAME "counter_cubit")
 
 cmake_policy(SET CMP0063 NEW)
 
